@@ -5,3 +5,16 @@ The datasets contains transactions made by credit cards in September 2013 by eur
 
 Used technogies..
 
+Numpy
+Pandas
+Matplotlib
+Pyplot
+Seaborn
+DateTime
+gc
+sklearn
+lightgbm
+xgboost
+os
+
+The more frequent solution is:- RandomForest classifier
